@@ -1,0 +1,28 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "category": "Italian",
+      "price": 199
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "category": "Fast Food",
+      "price": 99
+    },
+    {
+      "id": 3,
+      "name": "Biryani",
+      "category": "Indian",
+      "price": 149
+    },
+    {
+      "id": 4,
+      "name": "Sandwich",
+      "category": "Snacks",
+      "price": 79
+    }
+  ]
+}
